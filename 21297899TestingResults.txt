@@ -1,0 +1,366 @@
+
+Here are the random parameters that were generated for the Langermann function:
+Constants of the LangFit model object: 
+The c matrix is:
+-379		241.967		-280.153		147.349		-760.997		
+
+The a matrix is:
+-548.371		-673.471		
+-968.42		948.647		
+-438.104		-504.822		
+310.741		-953.574		
+-223.424		247.613		
+
+
+Showing intermediate results on every iteration, run genetic algorithm to find the (x, y) that minimizes the Langermann function:
+Number of iterations: 0
+The best individual has fitness: -8.04566e-35 and the following features:
+-543.244		-688.879		
+The worst individual has fitness: 0.00754681 and the following features:
+-432.753		-506.922		
+
+Number of iterations: 1
+The best individual has fitness: -76.9919 and the following features:
+-546.793		-674.785		
+The worst individual has fitness: 0 and the following features:
+-210.165		124.842		
+
+Number of iterations: 2
+The best individual has fitness: -76.9919 and the following features:
+-546.793		-674.785		
+The worst individual has fitness: 0 and the following features:
+1009		759.543		
+
+Number of iterations: 3
+The best individual has fitness: -196.254 and the following features:
+-224.015		249.481		
+The worst individual has fitness: 0 and the following features:
+-288.247		-112.197		
+
+Number of iterations: 4
+The best individual has fitness: -755.368 and the following features:
+-223.516		247.514		
+The worst individual has fitness: -4.03755e-110 and the following features:
+-535.378		-648.15		
+
+Number of iterations: 5
+The best individual has fitness: -755.368 and the following features:
+-223.516		247.514		
+The worst individual has fitness: -1.56058e-10 and the following features:
+-214.038		248.146		
+
+Number of iterations: 6
+The best individual has fitness: -755.368 and the following features:
+-223.516		247.514		
+The worst individual has fitness: -48.4718 and the following features:
+-550.345		-671.972		
+
+Number of iterations: 7
+The best individual has fitness: -755.368 and the following features:
+-223.516		247.514		
+The worst individual has fitness: -353.511 and the following features:
+-548.102		-673.338		
+
+Number of iterations: 8
+The best individual has fitness: -756.032 and the following features:
+-223.51		247.518		
+The worst individual has fitness: -378.596 and the following features:
+-548.427		-673.46		
+
+Number of iterations: 9
+The best individual has fitness: -760.381 and the following features:
+-223.472		247.6		
+The worst individual has fitness: -378.982 and the following features:
+-548.383		-673.468		
+
+Number of iterations: 10
+The best individual has fitness: -760.949 and the following features:
+-223.418		247.6		
+The worst individual has fitness: -378.999 and the following features:
+-548.371		-673.474		
+
+Number of iterations: 11
+The best individual has fitness: -760.987 and the following features:
+-223.428		247.618		
+The worst individual has fitness: -748.85 and the following features:
+-223.525		247.765		
+
+Number of iterations: 12
+The best individual has fitness: -760.996 and the following features:
+-223.425		247.614		
+The worst individual has fitness: -760.357 and the following features:
+-223.403		247.567		
+
+Number of iterations: 13
+The best individual has fitness: -760.997 and the following features:
+-223.425		247.613		
+The worst individual has fitness: -760.971 and the following features:
+-223.425		247.603		
+
+Number of iterations: 14
+The best individual has fitness: -760.997 and the following features:
+-223.424		247.613		
+The worst individual has fitness: -760.995 and the following features:
+-223.422		247.612		
+
+Number of iterations: 15
+The best individual has fitness: -760.997 and the following features:
+-223.424		247.613		
+The worst individual has fitness: -760.997 and the following features:
+-223.425		247.613		
+
+Number of iterations: 16
+The best individual has fitness: -760.997 and the following features:
+-223.424		247.613		
+The worst individual has fitness: -760.997 and the following features:
+-223.425		247.613		
+
+Here is an example set of points for the MSE cubic fit:
+Printing (x, y) coordinate pairs for MSE cubic fit:
+(578.671, 385.3)
+(808.978, 3.46535)
+(479.586, -309.216)
+(-662.126, -659.6)
+(397.055, -655.192)
+(778.68, -444.889)
+(-542.559, -731.224)
+(724.005, -698.556)
+(802.885, 146.984)
+(-420.702, 827.722)
+(893.251, -364.693)
+(-104.491, 86.3295)
+(145.846, 986.277)
+(-1.495, 530.021)
+(487.664, -171.922)
+(268.543, 66.335)
+(-786.622, 77.5208)
+(-930.2, 692.964)
+(768.305, -592.325)
+(-966.635, 165.36)
+(-247.518, 812.045)
+(720.471, 209.924)
+(-919.18, 444.476)
+(511.368, 883.705)
+(-408.539, -909.334)
+(711.427, -515.288)
+(-274.027, -393.064)
+(571.041, 871.819)
+(-406.786, -430.454)
+(401.84, -919.123)
+
+
+Showing intermediate results on every iteration, run genetic algorithm to find the cubic coefficients that have the lowest MSE.
+Number of iterations: 0
+The best individual has fitness: 1.47589e+17 and the following features:
+-770.903		-964.043		-606.877		0.661402		
+The worst individual has fitness: 1.48161e+23 and the following features:
+-752.295		302.571		469.129		999.281		
+
+Number of iterations: 1
+The best individual has fitness: 8.0101e+15 and the following features:
+665.39		240.279		-93.0735		-0.205519		
+The worst individual has fitness: 1.59836e+20 and the following features:
+-835.817		-104.826		-229.859		-32.8248		
+
+Number of iterations: 2
+The best individual has fitness: 2.88765e+13 and the following features:
+30.0694		284.721		7.92438		-0.0103028		
+The worst individual has fitness: 2.54973e+17 and the following features:
+-34.7369		-504.728		-481.167		-1.18362		
+
+Number of iterations: 3
+The best individual has fitness: 2.12265e+13 and the following features:
+-256.794		61.3226		-8.51941		-0.00633069		
+The worst individual has fitness: 5.34266e+15 and the following features:
+152.333		451.994		-121.551		0.116379		
+
+Number of iterations: 4
+The best individual has fitness: 2.96685e+10 and the following features:
+95.1382		64.7581		-0.122989		-0.000522979		
+The worst individual has fitness: 1.74561e+14 and the following features:
+-38.7097		675.83		19.2523		0.0244212		
+
+Number of iterations: 5
+The best individual has fitness: 3.4172e+09 and the following features:
+230.084		50.6961		-0.0588011		6.02534e-05		
+The worst individual has fitness: 5.88991e+12 and the following features:
+-747.028		-729.442		-4.8089		0.00288099		
+
+Number of iterations: 6
+The best individual has fitness: 3.53298e+08 and the following features:
+252.36		-62.8581		0.0322365		7.36143e-05		
+The worst individual has fitness: 1.51647e+11 and the following features:
+-280.933		170.878		0.755779		-0.000559379		
+
+Number of iterations: 7
+The best individual has fitness: 5.32033e+07 and the following features:
+329.714		-25.4071		-0.0016578		4.62512e-05		
+The worst individual has fitness: 8.09006e+09 and the following features:
+286.648		363.994		-0.130902		-0.000605202		
+
+Number of iterations: 8
+The best individual has fitness: 655296 and the following features:
+42.0592		0.294874		-0.00106606		-1.94333e-06		
+The worst individual has fitness: 8.40213e+08 and the following features:
+-4.45866		109.379		0.00610015		-0.000188873		
+
+Number of iterations: 9
+The best individual has fitness: 655296 and the following features:
+42.0592		0.294874		-0.00106606		-1.94333e-06		
+The worst individual has fitness: 1.109e+08 and the following features:
+93.3975		-28.0812		0.0218066		3.45156e-05		
+
+Number of iterations: 10
+The best individual has fitness: 404014 and the following features:
+146.298		0.357553		-0.000146268		-1.48889e-07		
+The worst individual has fitness: 1.61214e+07 and the following features:
+75.2097		5.90077		-2.14113e-05		6.97616e-07		
+
+Number of iterations: 11
+The best individual has fitness: 323712 and the following features:
+95.7697		0.919221		-0.000369383		-1.3941e-06		
+The worst individual has fitness: 2.10922e+06 and the following features:
+158.51		-2.44691		0.00153141		7.60255e-07		
+
+Number of iterations: 12
+The best individual has fitness: 299779 and the following features:
+47.3259		0.566218		-0.000228036		-1.14924e-06		
+The worst individual has fitness: 509233 and the following features:
+-84.7714		-0.0169101		0.00028406		-1.40372e-06		
+
+Number of iterations: 13
+The best individual has fitness: 299458 and the following features:
+42.0371		0.501444		-0.000236888		-1.08908e-06		
+The worst individual has fitness: 334291 and the following features:
+125.703		-0.11592		-6.16166e-05		-3.37609e-07		
+
+Number of iterations: 14
+The best individual has fitness: 299454 and the following features:
+40.4738		0.574575		-0.000246227		-1.24532e-06		
+The worst individual has fitness: 305713 and the following features:
+115.598		0.343249		-0.000308703		-1.03773e-06		
+
+Number of iterations: 15
+The best individual has fitness: 299193 and the following features:
+53.0924		0.557955		-0.00025448		-1.18798e-06		
+The worst individual has fitness: 300519 and the following features:
+80.9576		0.64281		-0.000268814		-1.36126e-06		
+
+Number of iterations: 16
+The best individual has fitness: 299188 and the following features:
+60.399		0.55516		-0.000266376		-1.18333e-06		
+The worst individual has fitness: 299469 and the following features:
+85.5641		0.530565		-0.000313854		-1.15193e-06		
+
+Number of iterations: 17
+The best individual has fitness: 299173 and the following features:
+58.7292		0.550404		-0.000267278		-1.1849e-06		
+The worst individual has fitness: 299248 and the following features:
+63.4936		0.572037		-0.000265811		-1.22661e-06		
+
+Number of iterations: 18
+The best individual has fitness: 299173 and the following features:
+58.7757		0.55159		-0.000267209		-1.18526e-06		
+The worst individual has fitness: 299189 and the following features:
+55.0719		0.54907		-0.000267347		-1.18282e-06		
+
+Number of iterations: 19
+The best individual has fitness: 299173 and the following features:
+59.2228		0.553782		-0.00026871		-1.19011e-06		
+The worst individual has fitness: 299176 and the following features:
+60.6475		0.555931		-0.000271044		-1.1968e-06		
+
+Number of iterations: 20
+The best individual has fitness: 299173 and the following features:
+58.5928		0.554318		-0.000267683		-1.19031e-06		
+The worst individual has fitness: 299174 and the following features:
+57.463		0.550962		-0.00026531		-1.18534e-06		
+
+Number of iterations: 21
+The best individual has fitness: 299173 and the following features:
+58.6431		0.553812		-0.000267521		-1.18915e-06		
+The worst individual has fitness: 299173 and the following features:
+57.9751		0.552718		-0.000266301		-1.18709e-06		
+
+Number of iterations: 22
+The best individual has fitness: 299173 and the following features:
+58.6906		0.553745		-0.000267518		-1.18931e-06		
+The worst individual has fitness: 299173 and the following features:
+58.5011		0.554527		-0.000267522		-1.19064e-06		
+
+Number of iterations: 23
+The best individual has fitness: 299173 and the following features:
+58.6906		0.553745		-0.000267518		-1.18931e-06		
+The worst individual has fitness: 299173 and the following features:
+58.6189		0.553968		-0.000267395		-1.18986e-06		
+
+Number of iterations: 24
+The best individual has fitness: 299173 and the following features:
+58.697		0.5537		-0.000267517		-1.18923e-06		
+The worst individual has fitness: 299173 and the following features:
+58.6954		0.553663		-0.000267624		-1.18925e-06		
+
+
+Without displaying intermediate values, apply genetic algorithm to minimize MSE for 10 different sets of 30 points for cubic fit:
+Set #0 of 30 random (x, y) points converged after Number of iterations: 26
+The best individual has fitness: 192256 and the following features:
+317.203		-0.896891		-0.000895396		1.16047e-06		
+The worst individual has fitness: 192256 and the following features:
+317.197		-0.896889		-0.000895283		1.16058e-06		
+
+Set #1 of 30 random (x, y) points converged after Number of iterations: 25
+The best individual has fitness: 323224 and the following features:
+264.719		1.59831		-0.00034223		-2.12059e-06		
+The worst individual has fitness: 323224 and the following features:
+264.757		1.59857		-0.000342313		-2.12083e-06		
+
+Set #2 of 30 random (x, y) points converged after Number of iterations: 24
+The best individual has fitness: 353114 and the following features:
+170.057		0.775612		-2.97153e-05		-1.14379e-06		
+The worst individual has fitness: 353114 and the following features:
+170.008		0.775514		-2.96275e-05		-1.14379e-06		
+
+Set #3 of 30 random (x, y) points converged after Number of iterations: 24
+The best individual has fitness: 302832 and the following features:
+-97.7145		0.0390863		0.00038587		8.25784e-09		
+The worst individual has fitness: 302832 and the following features:
+-97.7561		0.0391648		0.000385925		8.01365e-09		
+
+Set #4 of 30 random (x, y) points converged after Number of iterations: 24
+The best individual has fitness: 232454 and the following features:
+179.664		1.01083		-0.000270888		-1.75066e-06		
+The worst individual has fitness: 232454 and the following features:
+179.644		1.01081		-0.000270717		-1.7506e-06		
+
+Set #5 of 30 random (x, y) points converged after Number of iterations: 24
+The best individual has fitness: 269662 and the following features:
+16.22		0.0833082		0.000104325		-2.01321e-07		
+The worst individual has fitness: 269662 and the following features:
+16.2256		0.0831903		0.000104391		-2.01167e-07		
+
+Set #6 of 30 random (x, y) points converged after Number of iterations: 24
+The best individual has fitness: 220470 and the following features:
+-40.5827		0.16002		0.000255736		-1.99182e-07		
+The worst individual has fitness: 220470 and the following features:
+-40.6591		0.159939		0.000255904		-1.99102e-07		
+
+Set #7 of 30 random (x, y) points converged after Number of iterations: 24
+The best individual has fitness: 397051 and the following features:
+170.081		-0.21024		-0.000509015		2.62763e-07		
+The worst individual has fitness: 397051 and the following features:
+170.138		-0.210252		-0.000509182		2.62851e-07		
+
+Set #8 of 30 random (x, y) points converged after Number of iterations: 24
+The best individual has fitness: 183054 and the following features:
+69.2105		1.07249		0.000222978		-1.26349e-06		
+The worst individual has fitness: 183054 and the following features:
+69.2204		1.07268		0.000223027		-1.26377e-06		
+
+Set #9 of 30 random (x, y) points converged after Number of iterations: 24
+The best individual has fitness: 388923 and the following features:
+-156.227		-0.517939		0.00044502		5.38182e-07		
+The worst individual has fitness: 388923 and the following features:
+-156.241		-0.517938		0.00044487		5.38365e-07		
+
+
+The 10 different sets of 30 points for the cubic function have been fit.
